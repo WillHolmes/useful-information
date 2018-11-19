@@ -13,6 +13,7 @@
     * [Движение](https://github.com/WillHolmes/useful-information/blob/master/README.md#%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)  
     * [Зубы](https://github.com/WillHolmes/useful-information/blob/master/README.md#%D0%B7%D1%83%D0%B1%D1%8B)  
     * [Сон](https://github.com/WillHolmes/useful-information/blob/master/README.md#%D1%81%D0%BE%D0%BD)  
+* [Лайфхаки]()
 
 # Учеба
 # Работа
@@ -93,3 +94,8 @@ https://www.nytimes.com/2016/08/30/upshot/surprisingly-little-evidence-for-the-u
     • Помощь добавок мелатонина для здорового человека выражается только в эффекте Плацебо
     • Существенный недостаток сна (~4ч) снижает выделение иммунных клеток на 50-70%, что ведёт к раку
     • Переходы на летнее и зимнее время показали, что изменение времени сна на 1 час увеличивает/уменьшает шансы сердечно сосудистых заболеваний на ~20%
+
+# Лайфхаки
+## Одежда
+* [Как быстро сложить трусы](https://www.youtube.com/watch?v=VzRIHxbAdL8)
+## Еда
