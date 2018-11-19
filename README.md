@@ -16,6 +16,8 @@
 # Учеба
 # Работа
 # Саморазвитие
+## Мотивация
+[6 Harsh Truths That Will Make You a Better Person](http://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person) - хорошая статья о том, как важно уметь делать что-то, потому что всем важно, не кто ты и не какой ты внутри, а что ты умеешь делать и что ДЕЛАЕШЬ.
 # Спорт
 # Финансы
 # Социальная жизнь
